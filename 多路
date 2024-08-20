@@ -45,8 +45,8 @@
             "name": "Ray线路"
         },				   		
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "荷城茶秀"
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+            "name": "天微线路"
         },  			
         {
             "url": "http://rihou.vip:55/天天开心",
@@ -87,7 +87,11 @@
         {
             "url":"https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
             "name": "夜猫子"
-        }, 		
+        },
+        {
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "短剧线路"
+        },   
         {
             "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高天流云"
